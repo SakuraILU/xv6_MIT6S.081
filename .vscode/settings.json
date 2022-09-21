@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.json": "jsonc",
+        "syscall.h": "c",
+        "date.h": "c",
+        "defs.h": "c"
+    }
+}
