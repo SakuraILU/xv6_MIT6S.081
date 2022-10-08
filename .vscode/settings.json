@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.json": "jsonc",
+        "defs.h": "c",
+        "syscall.h": "c",
+        "user.h": "c",
+        "fcntl.h": "c",
+        "proc.h": "c",
+        "file.h": "c",
+        "spinlock.h": "c"
+    }
+}
